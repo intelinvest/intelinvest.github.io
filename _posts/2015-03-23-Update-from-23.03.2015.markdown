@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Обновление от 23.03.2015"
+date:   2017-01-27 12:19:48 +0300
+categories: updates
+---
+### Обновление от 23.03.2015
+
+* опубликовано мобильное приложение для сервиса. Только для Android [ссылка в GooglePlay]
+
+---
+[Перейти на сайт]
+
+[Перейти на сайт]: https://intelinvest.ru/
+[ссылка в GooglePlay]: https://play.google.com/store/apps/details?id=ru.intelinvest.myportfolio
